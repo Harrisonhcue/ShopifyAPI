@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CustomCollectionViewController.tableView(_:didSelectRowAt:):CustomCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.textLabel?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomCollectionViewController.prepare(for:sender:):CustomCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedCollection">
+            </PersistentString>
+            <PersistentString
+               value = "currentSetProducts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CollectionDetailsTableViewController.reloadTableView():CollectionDetailsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionDetailsTable.visibleCells.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CollectionData.getProductDetails(products:collectionID:):CollectionData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "print(collectionImg.url!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CollectionDetailsTableViewController.tableView(_:cellForRowAt:):CollectionDetailsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentSetProducts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:didFinishLaunchingWithOptions:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentSetProducts.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomCollectionViewController.viewDidLoad():CustomCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CollectionData.getCollectionProducts(collectionID:):CollectionData.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CollectionDetailsTableViewController.checkImageLoaded():CollectionDetailsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionDetailsTable.visibleCells.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CollectionData.getProductDetails(products:collectionID:):CollectionData.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Collection.getCollections():Collection.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "col.0">
+            </PersistentString>
+            <PersistentString
+               value = "col.1[&quot;id&quot;].stringValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.collections?[0].collectionID as! Decimal">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CollectionData.getCollections():CollectionData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "  self.collections">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CustomCollectionViewController.prepare(for:sender:):CustomCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentSetProducts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
